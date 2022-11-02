@@ -6,4 +6,4 @@ layout: default
 
 Lets Learn Python
 
-[back](/../) <!-- one level up will work in git hub pages -->
+[back]({{ '/' | absolute_url }}) <!-- one level up will work in git hub pages -->

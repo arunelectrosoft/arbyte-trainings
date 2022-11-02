@@ -129,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-[back](/../) <!-- one level up will work in git hub pages -->
+[back]({{ '/' | absolute_url }}) <!-- one level up will work in git hub pages -->
