@@ -1,0 +1,18 @@
+title: Python Training
+description: Python Training in a small problem solving approach
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
+
+collections_dir: blogContents
+
+collections:
+  python_concepts:
+    output: true
+    permalink: /:collection/:path
+  python_exercise:
+    output: true
+    permalink: /:collection/:path
+  python_project_list:
+      output: true
+      permalink: /:collection/:path
