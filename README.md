@@ -1,7 +1,7 @@
-# The Arbyte Python Tutorial Page
+# The Arbyte Training Tutorial Page
   Thanks to the GitHub opensource Architect themes. 
   
-  This page is about teaching python in a complete 
+  This page is about training material collection for in-person training 
 sense as from requirement to testing approach. 
 
 
